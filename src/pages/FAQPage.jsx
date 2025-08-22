@@ -21,9 +21,9 @@ import {
   Youtube,
 } from "lucide-react";
 import img from "..//assets/logo.png";
-import bigphone from "..//assets/iphonefaq.png";
-import callicon from "..//assets/callicon.png";
-import faqicons from "..//assets/faqicons.png";
+import bigphone from "../assets/iphonefaq.png";
+import callicon from "../assets/callicon.png";
+import faqicons from "../assets/faqicons.png";
 
 const FAQPage = () => {
   const [activeTab, setActiveTab] = useState("Consultation");
